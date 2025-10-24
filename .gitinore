@@ -1,0 +1,20 @@
+.gradle/
+**/build/
+build/
+
+# Android Studio
+.idea/
+*.iml
+local.propeties
+
+# keystore
+*.jks
+*.keystore
+
+# OS / IDE noise
+.DS_Store
+Thumbs.db
+
+# Emulator/AVD
+*.lock
+*.avd/

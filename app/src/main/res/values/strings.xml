@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Inventory App UI</string>
+
+    <!-- Login -->
+    <string name="login_title">Inventory App Login</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Log In</string>
+    <string name="create_account_button">Create New Account</string>
+    <string name="login_helper">First time? Use Create New Account to register.</string>
+
+    <!-- Inventory -->
+    <string name="inventory_title">Current Inventory</string>
+    <string name="col_item_name">Item Name</string>
+    <string name="col_quantity">Quantity</string>
+    <string name="col_actions">Actions</string>
+    <string name="delete_button">Delete</string>
+    <string name="add_item_button">Add New Item</string>
+    <string name="menu_sms_settings">SMS Settings</string>
+
+
+
+    <!-- SMS -->
+    <string name="sms_title">SMS Notifications</string>
+    <string name="sms_explain">Allow the app to send SMS alerts (e.g., low inventory). You can accept or decline permission.</string>
+    <string name="request_permission_button">Request SMS Permission</string>
+    <string name="permission_status_default">Permission Status: Not Granted</string>
+    <string name="sample_notification_placeholder">(Sample notification preview will appear here)</string>
+</resources>
