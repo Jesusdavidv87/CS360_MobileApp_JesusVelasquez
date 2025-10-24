@@ -93,7 +93,6 @@ Overall, this project represents a full end-to-end app development cycle — fro
 
 ## ✅ Included Files  
 - **`MyFirstApp_JesusVelasquez.zip`** – Full Android Studio Project  
-- **`App_Launch_Plan_JesusVelasquez.docx`** *(optional)*  
 
 ---
 
