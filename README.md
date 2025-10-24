@@ -13,5 +13,5 @@ It demonstrates:
 
 **Technologies used:** Java, SQLite, Android Studio.
 
-**Instructor collaborator:** [heusserm]
+**Instructor collaborator:** heusserm
 
